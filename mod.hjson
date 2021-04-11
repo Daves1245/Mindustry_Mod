@@ -1,8 +1,9 @@
-name: "example-java-mod"
-displayName: "Example Java Mod"
-author: "Anuke"
-main: "example.ExampleJavaMod"
-description: "A jar mod."
+name: "Test Mod"
+displayName: "Test Mod"
+author: "Medbar"
+main: "test.testMod"
+description: "A test mod"
 version: 1.0
+hidden: true
 minGameVersion: 105
 
